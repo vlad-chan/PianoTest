@@ -30,4 +30,26 @@
 
 # Debug files
 *.dSYM/
-*.su
+*.su 
+
+*.docx 
+*.__i
+*.crf 
+*.o 
+*.d 
+*.axf 
+*._ia 
+*.lnp 
+*.htm 
+*._ip 
+*.i 
+*.BAT 
+*.map 
+*.bak 
+*.uvopt 
+*.uvproj 
+*.dep 
+*.lst 
+*.s 
+*.Chankov 
+
